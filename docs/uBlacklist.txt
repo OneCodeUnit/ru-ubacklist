@@ -1,2 +1,5 @@
-*://*.example.com/*
-/example\.(net|org)/
+*://*.volsiz.ru/*
+*://*.guideer.ru/*
+*://*.rbkgames.com/*
+*://*.kv.by/*
+*://*.price.ru/*
