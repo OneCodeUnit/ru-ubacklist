@@ -3,3 +3,9 @@
 *://*.rbkgames.com/*
 *://*.kv.by/*
 *://*.price.ru/*
+*://*.samagame.com/*
+*://*.thewikihow.com/*
+*://*.vitrailer.com/*
+*://*.showgamer.com/*
+*://*.vilib.net/*
+*://*.b-apteka.ru/*
