@@ -2,6 +2,7 @@ adguard.com
 spotify.com
 vipdrive.net
 themoviedb.org
+tmdb.org
 crunchyroll.com
 fanatical.com
 intel.com
@@ -9,3 +10,8 @@ myfonts.com
 fosshub.com
 pega.com
 x.com
+buanzo.org
+getoutline.org
+howmanyfps.com
+ntc.party
+howlongtobeat.com
