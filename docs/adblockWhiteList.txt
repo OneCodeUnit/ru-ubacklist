@@ -40,3 +40,4 @@ learn.microsoft.com
 regex101.com
 json2csharp.com
 academy.pega.com
+hobbygames.ru
